@@ -5,8 +5,12 @@
 }
 body {
   min-height: 100vh;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: aquamarine;
   display: flex;
   justify-content: center;
   align-items: center;
+  color: white;
 }
