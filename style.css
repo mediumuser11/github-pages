@@ -13,4 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   color: white;
+  font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-size: 3rem;
 }
